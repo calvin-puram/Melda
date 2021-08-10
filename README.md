@@ -1,4 +1,4 @@
-# Melda is RESTful API that enables you to create, edit and share your favourite books. It's stable, intuitive and, best of all, free! It was built using modern technologies:
+Melda is RESTful API that enables you to create, edit and share your favourite books. It's stable, intuitive and, best of all, free! It was built using modern technologies:
 
 ### MongoDB - Express - Redis - NodeJS - Typescript
 
